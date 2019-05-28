@@ -11,13 +11,13 @@ We're gonna setup our SABnzbd++ to download webseries and its upcoming episodes 
 ## **Setup SABnzbd**
 
 > sudo apt-get install software-properties-common
-> sudo add-apt-repository multiverse
-> sudo add-apt-repository universe
->sudo add-apt-repository ppa:jcfp/nobetas
-sudo add-apt-repository ppa:jcfp/sab-addons
-sudo apt-get update && sudo apt-get dist-upgrade
-sudo apt-get install sabnzbdplus python-sabyenc
-sudo apt-get install par2-tbb
+   > sudo add-apt-repository multiverse
+   > sudo add-apt-repository universe
+   >sudo add-apt-repository ppa:jcfp/nobetas 
+   >sudo add-apt-repository ppa:jcfp/sab-addons 
+   >sudo apt-get update && sudo apt-get dist-upgrade
+   >sudo apt-get install sabnzbdplus python sabyenc 	
+   >sudo apt-get install   par2-tbb
 
 **Start SABNzbdplus**
 
