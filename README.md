@@ -1,5 +1,5 @@
 # DAIWSI
-Downloading Anything Of the Internet Without Searching It.
+Downloading Anything Off the Internet Without Searching It.
 
 This setup helps you download anything off the internet without even searching for it.
 
